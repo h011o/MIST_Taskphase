@@ -50,8 +50,9 @@ I was curious on how the ciphers worked so I took a look.
 - https://www.dcode.fr/caesar-cipher
 - https://www.dcode.fr/base-64-encoding
 
+***
 
-### Linux Luminarium 
+# Linux Luminarium 
 
 > Hello Hackers
 
